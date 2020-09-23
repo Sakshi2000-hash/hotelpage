@@ -1,0 +1,85 @@
+.outercontainer{
+	background-color: rgb(202, 26, 93);
+}
+.innercontainer{
+	background-color:black;
+}
+.navbar{
+    background-color:black;	
+}
+.sidebar{
+	background-color:plum;
+
+}
+.hotelname{
+	background-color: white;
+}
+.card{
+	background-color: plum;
+	border-color: plum;
+}
+.list-group-item{
+	color :purple;
+	background-color: plum;
+}
+.ininnercontainer{
+	background-color: plum;
+}
+
+.des1, .des2 , .des3, .des4 ,.des5{
+       font-size: 12px;
+       color :black;
+       background-color:plum;
+       border-style: none;
+
+}
+.footer1 ,.footer2{
+	color :purple;
+	font-size: 16px;
+}
+.hotelname{
+color :purple;
+}
+
+.list-group-item{
+	border-color: plum;
+}
+.check{
+     color: golden;
+}
+.list-group-item :hover{
+	
+	color:black;
+	font-size: 20px;
+	
+	padding: 3px;
+}
+.des1 :hover{
+	background-color: orchid;
+	color: purple;
+}
+.des2 :hover{
+	background-color: orchid;
+	color: purple;
+}
+.des3 :hover{
+	background-color: orchid;
+	color: purple;
+}
+.des4 :hover{
+	background-color: orchid;
+	color: purple;
+}
+.des5 :hover{
+	background-color: orchid;
+	color: purple;
+}
+.fa-star{
+	color:orange;
+}
+.fa-star:hover{
+     color:gold;
+}
+.btn:hover{
+	background-color: #F9873B;
+}
